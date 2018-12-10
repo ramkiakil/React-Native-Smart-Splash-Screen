@@ -1,0 +1,1 @@
+# React-Native-Smart-Splash-Screen
